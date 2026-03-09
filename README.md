@@ -1,5 +1,6 @@
 # Images-Processing
 This repository contains the implementation and performance analysis of three fundamental image processing filters: Gaussian, Sobel, and Median. The project compares three different computational approaches to evaluate execution efficiency.
+
 **🚀 Overview**
 The goal of this project is to apply image filters to a grayscale image and measure the performance gains achieved through various optimization techniques:
 
@@ -41,9 +42,9 @@ Execution Example:
 
 🎓 Academic Info
 Students: 
-Joel Alejandro Perez Yupit (2309182)
-Josué Octavio Chan Caballero (2309048)
-Gael Alberto Lara Peña (2309133)
+- Joel Alejandro Perez Yupit (2309182)
+- Josué Octavio Chan Caballero (2309048)
+- Gael Alberto Lara Peña (2309133)
 
 
 University: Universidad Politécnica de Yucatán (UPY)
